@@ -1,2 +1,2 @@
 # Cox-MK-file
-Supplementary files of Cox-MK: a model-X knockoff framework for genome-wide survival association analysis
+Here are supplementary files of Cox-MK: a model-X knockoff framework for genome-wide survival association analysis
